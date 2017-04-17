@@ -1,0 +1,89 @@
+body{
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 20px;
+    color: #333;
+    background-color: #ffffff;
+}
+
+.clear{
+  clear:both;  
+}
+
+#container{
+    width:1200px;
+    margin: 0 auto;
+    //border:1px solid red;
+}
+#main{
+   width:1200px;   
+}
+
+#head{
+    height:50px;
+}
+
+#lcolumn{
+    margin-top: 10px;
+    width:350px;
+    float:left;
+}
+
+#rcolumn{
+    width:850px;
+    float:left;
+}
+
+.book{
+width:150px;
+height:220px;
+display: block;
+line-height: 20px;
+text-align: center;
+margin:10px;
+}
+
+.style_border{
+   border: 1px solid #DDD;
+   border-radius: 4px;
+   box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.055);
+}
+
+.price{
+    text-align: center;
+    font-size:0.8em;
+    color:blue;
+    font-weight: bold;
+}
+
+.title{
+    font-size:0.9em;
+    color:red;
+    font-style:italic;
+    height: 65px;
+    font-weight: bold;
+    margin:5px auto;
+
+}
+
+.authors{
+    height: 40px;
+}
+
+.fail,.saccess {
+    font-size:1.1em;
+    font-weight:bold; 
+}
+
+.fail{
+    color:red;
+}
+
+.success{
+    color:green;
+}
+
+.authors a,.book a{
+    text-decoration: none;
+    color:black;
+}
