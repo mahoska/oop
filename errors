@@ -1,0 +1,20 @@
+Catched Fracture exception:
+TIME_ERROR: 2017 04 19 00:20:30
+DESCRIPTION: Division by zero
+
+Connect error(2017 04 19 00:21:48): 
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'fractures.log1' doesn't exist
+
+Catched Fracture exception:
+TIME_ERROR: 2017 04 19 00:47:40
+DESCRIPTION: Division by zero
+
+
+Catched Fracture exception:
+TIME_ERROR: 2017 04 19 01:25:01
+DESCRIPTION: Division by zero
+
+Catched Fracture exception:
+TIME_ERROR: 2017 04 19 01:26:16
+DESCRIPTION: Division by zero
+
